@@ -1,2 +1,2 @@
-# slider_new_releases
+# scroll_snap_spacer
 Created with CodeSandbox
